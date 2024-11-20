@@ -60,7 +60,7 @@ This project explores grocery store data to uncover valuable insights about cust
 - `classification_tree.png`: Graphical representation of the classification tree.  
 - `decision_tree.png`: Visualization of the decision tree used for predicting purchase behavior.  
 - `purchase_behavior_analysis.png`: Insights into customer purchase behavior, represented visually.  
-- Additional plots and dashboards for analysis and insights are stored in this directory.
+- Additional plots and KPI dashboards for analysis and insights are stored in this directory.
 
 ## Tools and Technologies  
 
