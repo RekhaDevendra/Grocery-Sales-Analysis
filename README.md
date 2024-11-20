@@ -75,3 +75,8 @@ This project explores grocery store data to uncover valuable insights about cust
 
 **Data Modeling**  
 - SQL, Excel  
+
+**Contributing** Feel free to fork the repository and submit a pull request for bug fixes, features, or improvements.
+
+**License** 
+- This project is licensed under the Apache License 2.0.
